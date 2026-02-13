@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "ROBUST Electric shaRed mOBility hUbS Trial"
+description:	       "The website for the ROBUST project, running 2023-7 in Letterkenny, Galway, Waterford and Dundrum (Dublin) in Ireland"
+author:              "The ROBUST project team"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
