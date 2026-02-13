@@ -4,4 +4,25 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+
+
+# ROBUST
+
+
+The ROBUST project involves a long-term trial of electric shared mobility hubs in four urban locations in Ireland, namely Dublin, Waterford, Galway and Letterkenny. The installed hub infrastructure initially comprises e-car charge points, electric cars, e-bikes and e-cargo bikes (provided by partners ESB & Enterprise). This is expected to be further expanded or otherwise altered to offer further micro-mobility options during the trial. The two-year trial will provide an opportunity to study the persistence of modal shift and, through the trial, the building of national capacity to expand the understanding around mobility hubs and apply it country-wide.
+
+
+![A map showing the location ROBUST hub locations across Ireland.](assets\img\mapppp.png "Dundrum hub location and catchment area")
+
+
+
+Mobility hubs show evidence of being an effective intervention to change travel behaviours, and the ROBUST project seeks to develop an evidence-informed toolkit for their deployment. This toolkit will provide guidance and support to policymakers and test transport policy scenarios that could facilitate the implementation of this solution. The project also aims to serve as an incubator, accelerating the uptake of electric mobility options by allowing interacting with future mobility technologies and removing barriers through participatory research. Various stakeholders will be engaged during the trial in the process of hub evolution through stakeholder and co-creation workshops.
+
+The ROBUST project uses an experimental design comparing prior-to-trial travel behaviour, engagement with the hub modal options and after-trial persistence of the modal shift. This project is the first for Ireland in that it will trial this new mobility option in our largest city, a regional city, a regional hub and in a less populated context. Outcomes from the project will provide evidence of how these options operate in different contexts.
+
+ROBUST has been funded by the Sustainable Energy Authority of Ireland under the SEAI Research, Development & Demonstration Funding Programme 2022 (grant number 22/RDD/840) and is being led by Trinity College Dublin (TCD). Partners and collaborators in ROBUST also include researchers, practitioners and others from: Atlantic Technological University (ATU); ESB Group; Enterprise Holdings UK and Ireland; MOBY; Donegal County Council; [Dún Laoghaire-Rathdown County Council](https://www.dlrcoco.ie); Galway County Council; Galway City Council; Letterkenny Milford Municipal District; the Northern & Western Assembly; Waterford City and County
+
+
+
+
+

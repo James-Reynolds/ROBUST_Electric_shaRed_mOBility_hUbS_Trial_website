@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "ROBUST Electric shaRed mOBility hUbS Trial"
-description:	       "The website for the ROBUST project, running 2023-7 in Letterkenny, Galway, Waterford and Dundrum (Dublin) in Ireland"
-author:              "The ROBUST project team"
+description:	       "Running 2023-2027 in Letterkenny, Galway, Waterford and Dundrum, Ireland"
+author:              "ROBUST project team"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

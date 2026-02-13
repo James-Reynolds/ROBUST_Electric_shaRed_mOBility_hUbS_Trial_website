@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>ROBUST Electric shaRed mOBility hUbS Trial</title>
+		<description>Running 2023-2027 in Letterkenny, Galway, Waterford and Dundrum, Ireland</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Letterkenny</title>
+				
+					<dc:creator>James Reynolds</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;letterkenny-hub&quot;&gt;Letterkenny hub&lt;/h1&gt;
+</description>
+				
+				<pubDate>Tue, 10 Feb 2026 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/letterkenny</link>
+				<guid isPermaLink="true">http://localhost:4000/letterkenny</guid>
+			</item>
+		
+			<item>
+				<title>Galway</title>
+				
+					<dc:creator>James Reynolds</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;galway-hub&quot;&gt;Galway hub&lt;/h1&gt;
+</description>
+				
+				<pubDate>Mon, 09 Feb 2026 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/galway</link>
+				<guid isPermaLink="true">http://localhost:4000/galway</guid>
+			</item>
+		
+			<item>
+				<title>Waterford</title>
+				
+					<dc:creator>James Reynolds</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;waterford-hub&quot;&gt;Waterford hub&lt;/h1&gt;
+</description>
+				
+				<pubDate>Sun, 08 Feb 2026 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/waterford</link>
+				<guid isPermaLink="true">http://localhost:4000/waterford</guid>
+			</item>
+		
+			<item>
+				<title>Dundrum</title>
+				
+					<dc:creator>James Reynolds</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;dundrum-hub&quot;&gt;Dundrum hub&lt;/h1&gt;
+</description>
+				
+				<pubDate>Sat, 07 Feb 2026 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/dundrum</link>
+				<guid isPermaLink="true">http://localhost:4000/dundrum</guid>
+			</item>
+		
+			<item>
+				<title>Research context</title>
+				
+					<dc:creator>Agnieszka Stefaniec</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;shared-mobility&quot;&gt;Shared mobility&lt;/h1&gt;
+&lt;p&gt;Shared mobility is recognised as having the potential to change travel behaviour and vehicle ownership patterns (EEA, 2016; Amatuni et al., 2020). Its strong growth in the market results from a gradual change in consumption patterns towards sharing economy of using more and owning less (Miramontes et al., 2017) and the emergence of new developments in information and communications technology (ICT) and other innovations. The key principle of shared mobility services is increased efficiency of the system which is delivered through better use of infrastructure and higher occupancy of vehicles (EEA, 2016). It offers a range of options from car-sharing, carpooling and bicycle sharing to on-demand rides which can aspire to replace car ownership.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 30 Aug 2024 00:00:00 +1000</pubDate>
+				<link>http://localhost:4000/research</link>
+				<guid isPermaLink="true">http://localhost:4000/research</guid>
+			</item>
+		
+	</channel>
+</rss>
