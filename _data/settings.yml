@@ -11,8 +11,8 @@ menu:
 - {name: 'Get the App',              url: 'app'}
 - {name: 'Letterkenny',  url: 'letterkenny'}
 - {name: 'Galway', url: 'galway'}
-- {name: 'Dundrum',       url: 'dundrum'}
 - {name: 'Waterford',      url: 'waterford'}
+- {name: 'Dundrum',       url: 'dundrum'}
 - {name: 'Research',      url: 'research'}
 - {name: 'Contact',            url: 'contact'}
 

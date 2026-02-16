@@ -1,7 +1,7 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            5
+paginate:            6
 
 # Build settings
 markdown:            kramdown
@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "ROBUST Electric shaRed mOBility hUbS Trial"
 description:	       "Running 2023-2027 in Letterkenny, Galway, Waterford and Dundrum, Ireland"
-author:              "ROBUST project team"
+author:              "the ROBUST project team"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
