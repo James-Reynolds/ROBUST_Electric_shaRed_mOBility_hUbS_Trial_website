@@ -19,3 +19,6 @@ The Waterford hub was [launched on October 31st, 2025,](https://waterfordcouncil
   style="border: 1px solid #e5e7eb; border-radius: 0.5rem;"
   title="RadiusMapper - Travel Time Map"
 ></iframe>
+
+## Sign up 
+![An image of how to sign up for the Waterford hub](assets/img/Waterford -leaflet-3_260218.png)
