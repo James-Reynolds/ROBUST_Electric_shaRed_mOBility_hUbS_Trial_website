@@ -8,12 +8,14 @@ google-ID: ''
 
 menu:
 - {name: 'About',              url: 'about'}
+- {name: 'Newsletters',              url: 'newsletters'}
 - {name: 'Get the App',              url: 'app'}
 - {name: 'Letterkenny',  url: 'letterkenny'}
 - {name: 'Galway', url: 'galway'}
 - {name: 'Waterford',      url: 'waterford'}
 - {name: 'Dundrum',       url: 'dundrum'}
 - {name: 'Research',      url: 'research'}
+- {name: 'Media',      url: 'media'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
