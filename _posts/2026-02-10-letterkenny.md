@@ -21,3 +21,7 @@ The Letterkenny hub was [launched on September 5th, 2025](https://www.atu.ie/new
   style="border: 1px solid #e5e7eb; border-radius: 0.5rem;"
   title="RadiusMapper - Travel Time Map"
 ></iframe>
+
+![An image of the Letterkenny e-bikes, looking south](assets\img\letterkenny_bikes_south_251006.jpg)
+![An image of the Letterkenny shared electric cars, looking north east](assets\img\letterkenny_cars_251006.jpg)
+![An image of the Letterkenny e-bikes, looking south](assets\img\letterkenny_pano_251006.jpg)
