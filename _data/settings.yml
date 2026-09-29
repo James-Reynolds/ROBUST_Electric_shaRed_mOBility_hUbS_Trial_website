@@ -8,7 +8,6 @@ google-ID: ''
 
 menu:
 - {name: 'About',              url: 'about'}
-- {name: 'Newsletters',              url: 'newsletters'}
 - {name: 'Get the App',              url: 'app'}
 - {name: 'Letterkenny',  url: 'letterkenny'}
 - {name: 'Galway', url: 'galway'}

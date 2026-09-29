@@ -12,7 +12,7 @@ image: waterford_251031.jpg
 The Waterford hub was [launched on October 31st, 2025,](https://waterfordcouncil.ie/new-emobility-ehub-launches-in-ballybricken-waterford/) by Mayor of Waterford City and County, Cllr. Seamus Ryan.
 
 ## Sign up 
-![An image of how to sign up for the Waterford hub](assets/img/Waterford -leaflet-3_260218.png)
+![An image of how to sign up for the Waterford hub](assets/img/ROBUST-Waterford-Poster-5.png)
 
 
 ## Location 
@@ -28,7 +28,5 @@ The Waterford hub was [launched on October 31st, 2025,](https://waterfordcouncil
 ></iframe>
 
 
-<script src="https://js-ap1.hsforms.net/forms/embed/442837412.js" defer></script>
-<div class="hs-form-frame" data-region="ap1" data-form-id="4cefb2c9-3683-4cbf-a08e-9bf3febfa3d7" data-portal-id="442837412"></div>
 
 

@@ -13,7 +13,7 @@ The Letterkenny hub was [launched on September 5th, 2025](https://www.atu.ie/new
 
 
 ## Sign up 
-![An image of the Letterkenny signup information](assets/img/Letterkenny-poster-1_260218.png)
+![An image of the Letterkenny signup information](assets/img/ROBUST-Letterkenny-Poster-5.png)
 
 
 ## Location
@@ -35,6 +35,3 @@ The hub is located centrally on Justice Walsh Road, close to the intersection wi
 ![An image of the Letterkenny shared electric cars, looking north east](assets\img\letterkenny_cars_251006.jpg)
 ![An image of the Letterkenny e-bikes, looking south](assets\img\letterkenny_pano_251006.jpg)
 
-
-<script src="https://js-ap1.hsforms.net/forms/embed/442837412.js" defer></script>
-<div class="hs-form-frame" data-region="ap1" data-form-id="71baf636-f733-4db2-bbb2-a3de47543088" data-portal-id="442837412"></div>

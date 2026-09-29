@@ -25,9 +25,4 @@ The project launch was covered [in Autotrade.ie](https://www.autotrade.ie/index.
 
 
 
-## Media enquires
-
-
-[Prof Brian Caulfield](https://www.tcd.ie/research/profiles/?profile=caulfib) 
-
 
