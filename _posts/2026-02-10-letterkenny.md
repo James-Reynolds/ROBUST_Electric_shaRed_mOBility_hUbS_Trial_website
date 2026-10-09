@@ -13,7 +13,7 @@ The Letterkenny hub was [launched on September 5th, 2025](https://www.atu.ie/new
 
 
 ## Sign up 
-![An image of the Letterkenny signup information](assets/img/ROBUST-Letterkenny-Poster-5.png)
+![An image of the Letterkenny signup information](assets/img/ROBUST-Letterkenny -leaflet-5.png)
 
 
 ## Location
