@@ -14,6 +14,7 @@ menu:
 - {name: 'Waterford',      url: 'waterford'}
 - {name: 'Dundrum',       url: 'dundrum'}
 - {name: 'Research',      url: 'research'}
+- {name: 'Co-design workshops',      url: 'codesign'}
 - {name: 'Media',      url: 'media'}
 - {name: 'Contact',            url: 'contact'}
 
