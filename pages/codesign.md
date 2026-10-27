@@ -30,6 +30,10 @@ Links to workshop materials and follow-up notes are included below (you may need
 
 ## Letterkenny (13th October, 2026)
 
-Forthcoming. 
+
+[Workshop materials](https://github.com/James-Reynolds/WP4_co-creative_workshops/blob/main/co-design_workshop_letterkenny_261013.pdf)
+
+[Follow-up notes](https://github.com/James-Reynolds/WP4_co-creative_workshops/blob/main/co-design_workshop_letterkenny_261013_follow_up.pdf)
+
 
 
